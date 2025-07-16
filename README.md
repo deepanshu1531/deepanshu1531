@@ -8,7 +8,7 @@
 - **Languages:** Java, JavaScript (React, Node), SQL, MongoDB, HTML, CSS
 - **Frameworks:** Spring Boot, Spring MVC, Express.js
 - **Tools & Platforms:** Git, GitHub, MySQL Workbench, Eclipse, VS Code, Postman
-- **Frontend:** React JS, Bootstrap
+- **Frontend:** React JS, Nest Js, Bootstrap
 - **Backend:** Java, Spring Boot, Node.js
 - **Databases:** MySQL, MongoDB
 
@@ -26,7 +26,10 @@ I aim to leverage my skills in software development to build impactful solutions
 ---
 
 ### 🔗 Let's connect!
+- Email: vermadeepanshu201@gmail.com
+- Mobile: +91-9131283011
 - [GitHub](https://www.github.com/deepanshu1531)
 - [LinkedIn](https://www.linkedin.com/in/deepanshu-verma-299405195)
+- [Portfolio](https://deepanshu1531.github.io/portfolio/)
 
 Feel free to explore my repositories and reach out if you would like to collaborate or discuss anything tech-related!
